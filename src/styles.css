@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: url("https://effectiviology.com/wp-content/uploads/The-Benefits-of-Music-and-Background-Noise.jpg")
+    no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1,
+h3 {
+  background-color: #feda44;
+  padding: 0.3rem;
+}
+
+button {
+  width: 5rem;
+  height: 2rem;
+  margin: 0.5rem;
+  border-radius: 10px;
+}
+
+li {
+  border: solid 1px #fdb827;
+  background-color: #fff3b2;
+  border-radius: 10px;
+  margin: 1rem auto;
+  width: 15rem;
+  text-align: center;
+  list-style-type: none;
+}
